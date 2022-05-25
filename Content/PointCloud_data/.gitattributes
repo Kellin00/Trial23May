@@ -1,1 +1,2 @@
 Building.uasset filter=lfs diff=lfs merge=lfs -text
+Rooftop-003.uasset filter=lfs diff=lfs merge=lfs -text
